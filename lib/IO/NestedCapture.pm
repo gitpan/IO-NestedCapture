@@ -51,7 +51,7 @@ our %EXPORT_TAGS = (
 	/ ],
 );
 
-our $VERSION = '1.02';
+our $VERSION = '1.03';
 
 use constant CAPTURE_NONE    => 0;
 use constant CAPTURE_STDIN   => 1;

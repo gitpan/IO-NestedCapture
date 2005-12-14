@@ -10,3 +10,4 @@ t/4-capture_all.t
 t/5-errors.t
 t/6-io-string.t
 META.yml
+Makefile.PL

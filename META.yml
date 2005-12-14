@@ -1,6 +1,6 @@
 ---
 name: IO-NestedCapture
-version: 1.02
+version: 1.03
 author:
   - 'Andrew Sterling Hanenkamp, E<lt>hanenkamp@cpan.orgE<gt>'
 abstract: module for performing nested STD* handle captures
@@ -8,5 +8,5 @@ license: perl
 provides:
   IO::NestedCapture:
     file: lib/IO/NestedCapture.pm
-    version: 1.02
+    version: 1.03
 generated_by: Module::Build version 0.2611

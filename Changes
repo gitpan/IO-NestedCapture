@@ -1,3 +1,7 @@
+IO::NestedCapture 1.03 (2005-12-13 20:24):
+
+    * Added Makefile.PL support.
+
 IO::NestedCapture 1.02 (2005-9-4 21:23):
 
 	* Added the capture_in, capture_out, capture_err, capture_in_out,
